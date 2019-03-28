@@ -1,0 +1,134 @@
+-- Merging decision tree log ---
+manifest
+ADDED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\28da74d504f10ee7eb9ea71db3711077\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\dc5213dc8d57e92f61b7700ef6415d12\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\3fbcfc3bfa4d4b9ef7b1109cb56b81dd\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\c701fedfc78bf8673c794eb3b2c5c7ab\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\580930910cbdbdb34d0a5cf6406d8d5d\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\3f0b167382fa08f670970f95eb9e7fc4\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\70bf370d64ad3c802f8253a3d1795e3d\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\4f3213b25631fac6c6f9042659e0a756\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\1967f439fdf6e9c7460a4febf668f36a\AndroidManifest.xml:17:1-27:12
+INJECTED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:3:11-61
+		INJECTED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+		INJECTED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+		ADDED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+		ADDED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.bluetooth
+ADDED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:6:5-63
+	android:name
+		ADDED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:6:19-60
+uses-permission#android.permission.BLUETOOTH
+ADDED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:8:5-74
+	android:name
+		ADDED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:8:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:10:5-78
+	android:name
+		ADDED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.BLUETOOTH_PRIVILEGED
+ADDED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:11:22-76
+application
+ADDED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:13:5-26:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\28da74d504f10ee7eb9ea71db3711077\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\28da74d504f10ee7eb9ea71db3711077\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\dc5213dc8d57e92f61b7700ef6415d12\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\dc5213dc8d57e92f61b7700ef6415d12\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\3fbcfc3bfa4d4b9ef7b1109cb56b81dd\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\3fbcfc3bfa4d4b9ef7b1109cb56b81dd\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\c701fedfc78bf8673c794eb3b2c5c7ab\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\c701fedfc78bf8673c794eb3b2c5c7ab\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\580930910cbdbdb34d0a5cf6406d8d5d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\580930910cbdbdb34d0a5cf6406d8d5d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\3f0b167382fa08f670970f95eb9e7fc4\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\3f0b167382fa08f670970f95eb9e7fc4\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\70bf370d64ad3c802f8253a3d1795e3d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\70bf370d64ad3c802f8253a3d1795e3d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\4f3213b25631fac6c6f9042659e0a756\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\4f3213b25631fac6c6f9042659e0a756\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\1967f439fdf6e9c7460a4febf668f36a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\1967f439fdf6e9c7460a4febf668f36a\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.example.user.bluetooth_communication.MainActivity
+ADDED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:19:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:21:17-68
+	android:name
+		ADDED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:23:17-76
+	android:name
+		ADDED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+INJECTED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\28da74d504f10ee7eb9ea71db3711077\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\28da74d504f10ee7eb9ea71db3711077\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\dc5213dc8d57e92f61b7700ef6415d12\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\dc5213dc8d57e92f61b7700ef6415d12\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\3fbcfc3bfa4d4b9ef7b1109cb56b81dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\3fbcfc3bfa4d4b9ef7b1109cb56b81dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\c701fedfc78bf8673c794eb3b2c5c7ab\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\c701fedfc78bf8673c794eb3b2c5c7ab\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\580930910cbdbdb34d0a5cf6406d8d5d\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\580930910cbdbdb34d0a5cf6406d8d5d\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\3f0b167382fa08f670970f95eb9e7fc4\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\3f0b167382fa08f670970f95eb9e7fc4\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\70bf370d64ad3c802f8253a3d1795e3d\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\70bf370d64ad3c802f8253a3d1795e3d\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\4f3213b25631fac6c6f9042659e0a756\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\4f3213b25631fac6c6f9042659e0a756\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\1967f439fdf6e9c7460a4febf668f36a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\1967f439fdf6e9c7460a4febf668f36a\AndroidManifest.xml:21:5-23:58
+INJECTED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+INJECTED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\ipeth\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\28da74d504f10ee7eb9ea71db3711077\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+		ADDED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+		INJECTED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+		ADDED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+		INJECTED from B:\Android\Sending-and-Receiving-Data-with-Blluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml
